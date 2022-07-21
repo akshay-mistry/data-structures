@@ -1,0 +1,27 @@
+Saratoga Springs,Monmouth Junction,216
+Ithaca,Saratoga Springs,190
+Saratoga Springs,Ithaca,190
+Monmouth Junction,Boston,261
+Boston,Saratoga Springs,202
+Saratoga Springs,Boston,202
+Ithaca,Boston,332
+Philadelphia,Monmouth Junction,49
+Philadelphia,New York,94
+New York,Monmouth Junction,45
+New York,Saratoga Springs,187
+Saratoga Springs,Philadelphia,265
+Phoenix,Philadelphia,2343
+New York,Phoenix,2431
+Saratoga Springs,Phoenix,2478
+Phoenix,San Diego,355
+San Diego,San Francisco,501
+Chicago,San Francisco,2132
+Ithaca,Chicago,673
+Denver,Chicago,1005
+Denver,San Francisco,1249
+Mexico City,San Diego,1745
+Phoenix,Mexico City,1451
+Mexico City,Panama City,2055
+Anchorage,San Francisco,3068
+Saratoga Springs,Montreal,188
+Montreal,Boston,307
